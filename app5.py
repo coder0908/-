@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 
 dataframe = pd.DataFrame({
-    'first column': ['name', 'age' , 'live'],
-    'second column': ['G.D.G', '17', 'gimpo']
+    '': ['name', 'age' , 'live'],
+    '': ['G.D.G', '17', 'gimpo']
 })
 
 # 다운로드 버튼 연결
