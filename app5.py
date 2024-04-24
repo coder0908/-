@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 
 dataframe = pd.DataFrame({
-    'first column': ['이름', '나이', '성별', '거주'],
-    'second column': ['권다경', '17', '여성', '김포']
+    'first column': ['name', 'age' , 'live'],
+    'second column': ['G.D.G', '17', 'gimpo']
 })
 
 # 다운로드 버튼 연결
